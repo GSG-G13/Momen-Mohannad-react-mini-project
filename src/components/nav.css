@@ -1,0 +1,22 @@
+.nav-bar {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 70px;
+   background-color: rgb(223, 223, 223);
+   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.288);
+}
+.search-input {
+    outline: none;
+    border: 1px solid rgba(0, 0, 0, 0.212);
+    width: 400px;
+  
+}
+.search-btn {
+   border-bottom-right-radius: 5px;
+   border-top-right-radius: 5px;
+   border:none;
+}
+.search-btn, .search-input {
+    padding: .57rem;
+}
