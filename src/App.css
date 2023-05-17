@@ -1,0 +1,15 @@
+
+
+.main {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-start;
+  border: 1px solid black;
+
+  
+}
+.filters {
+  height: 100vh;
+  background-color: azure;
+  width: 300px;
+}
